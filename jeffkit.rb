@@ -1,4 +1,4 @@
-class JeffKit < Formula
+class Jeffkit < Formula
     desc "A command line tool for convenience"
     homepage "https://github.com/spaghetticoderapps/JeffKit"
     url "https://github.com/spaghetticoderapps/JeffKit/raw/master/archive/test.tar.gz"
