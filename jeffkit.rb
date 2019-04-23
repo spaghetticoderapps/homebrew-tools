@@ -8,6 +8,6 @@ class Jeffkit < Formula
     bottle :unneeded
     
     def install
-        bin.install "jeffkit"
+        bin.install "jeffkit.sh"
     end
 end
